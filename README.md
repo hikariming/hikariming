@@ -18,6 +18,12 @@ I'm **akou**, an AI builder interested in product research. I explore AI, agents
 
 我关注 AI、Agent、开发者工具与开源产品，喜欢研究新技术如何进入真实的工作与生活。
 
+## Education & research · 教育与研究
+
+I completed my undergraduate studies at **Chongqing University** and my graduate studies in the **Department of Industrial Engineering at Tsinghua University**. My research focused on **systems engineering**, and I'm working to bring systems engineering thinking into AI.
+
+本科毕业于**重庆大学**，研究生毕业于**清华大学工业工程系**。主要研究**系统工程**，致力于将系统工程的方法与思维带入 AI。
+
 ## What I'm building · 我在做什么
 
 - 🔎 **Developer discovery** — With **ghfind**, I help people discover strong builders and understand their public GitHub work. / 用公开作品与贡献信号发现优秀开发者。
